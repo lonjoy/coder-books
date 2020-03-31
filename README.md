@@ -47,9 +47,11 @@
 1. [深入理解C++11](https://book.douban.com/subject/24738301/) - C++11入门
 1. [UNIX编程艺术](https://book.douban.com/subject/1467587/)
 1. [flex与bison](https://book.douban.com/subject/6109479/)
-1. [学习vi和Vim编辑器](https://book.douban.com/subject/6126937/)
-1. [计算机程序设计艺术](https://book.douban.com/subject/1231933/)
+1. [学习vi和Vim编辑器](https://book.douban.com/subject/6126937/) - Vi是单行编辑器到多行终端编辑器的集大成者
+1. [计算机程序设计艺术](https://book.douban.com/subject/1231933/) - 写书能获得图灵奖, 只有高德纳了
 1. [算法导论](https://book.douban.com/subject/1885170/)
 1. [算法](https://book.douban.com/subject/19952400/)
 1. [具体数学](https://book.douban.com/subject/21323941/)
+1. [UNIX操作系统设计](https://book.douban.com/subject/10521297/)
+1. [莱昂氏UNIX源代码分析](https://book.douban.com/subject/1231822/) - 源码分析的鼻祖, 据说是第一代UNIX黑客的必读之物, 现在可以收藏
 
