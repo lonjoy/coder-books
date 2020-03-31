@@ -18,4 +18,11 @@
 
 ## 二、Go语言
 
-TODO
+1. [Go程序设计语言](https://book.douban.com/subject/26859123/) - Go语言圣经, 官方文档的完美组合
+1. [Go语言实战](https://book.douban.com/subject/27015617/) - 适合入门实战
+1. [Go Web 编程](https://book.douban.com/subject/27204133/) - Web方向开发入门
+1. [Go并发编程实战](https://book.douban.com/subject/27016236/) - 专注并发编程(国产)
+1. [Go语言学习笔记](https://book.douban.com/subject/26832468/) - 深入Go源码分析唯一选择(国产)
+1. [Go语言高级编程](https://book.douban.com/subject/34442131/) - 涉及CGO/汇编/Web框架等底层原理(国产)
+1. [机器学习：Go语言实现](https://book.douban.com/subject/30457083/) - 很多gonum库内容
+
