@@ -42,5 +42,7 @@
 ## 四、其它
 
 1. [图灵的秘密](https://read.douban.com/ebook/474698/) - 对图灵工作的深入解读
-
+1. [Programming Rust](https://book.douban.com/subject/26616762/) - 对比C++理解底层设计原理
+1. [深入理解程序设计](https://book.douban.com/subject/25789594/) - 从汇编语言到C语言
+1. [深入理解C++11](https://book.douban.com/subject/24738301/) - C++11入门
 
