@@ -45,4 +45,11 @@
 1. [Programming Rust](https://book.douban.com/subject/26616762/) - 对比C++理解底层设计原理
 1. [深入理解程序设计](https://book.douban.com/subject/25789594/) - 从汇编语言到C语言
 1. [深入理解C++11](https://book.douban.com/subject/24738301/) - C++11入门
+1. [UNIX编程艺术](https://book.douban.com/subject/1467587/)
+1. [flex与bison](https://book.douban.com/subject/6109479/)
+1. [学习vi和Vim编辑器](https://book.douban.com/subject/6126937/)
+1. [计算机程序设计艺术](https://book.douban.com/subject/1231933/)
+1. [算法导论](https://book.douban.com/subject/1885170/)
+1. [算法](https://book.douban.com/subject/19952400/)
+1. [具体数学](https://book.douban.com/subject/21323941/)
 
